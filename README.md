@@ -1,38 +1,62 @@
 <h1>Hi there! 👋</h1>
 
 <p> 
-My name is Adam and I'd like to work as an automation engineer.</br>
-I just graduated AGH university science and technology at automatics and robotics.
-</p></br>
+My name is Adam and I'm currently studying a part-time second-degree studies  howeather I have already completed my undergraduate studies with a Bachelor's degree in Automation and Robotics at AGH University of Science and Technology in Kraków. </br>
+My goal is to become a PLC programmer. In my spare time, I create projects to further develop my skills and knowledge in this field. I invite you to take a look at some of the source code I've created and encourage you to explore it.
+</br>
+</p>
+</br></br>
 
-
-<h3>Check my code</h3></br>
-
-<table>
+<table align="center">
   <thead align="center">
-    <tr border: none;>
+    <tr>
 	    <td><b>	 💻 Project	 </b></td>
 	    <td><b>	 ✏️ Language </b></td>
+		<td><b>  📱 Program </b></td>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="left">
   	  <tr>
-		  <td><a href="https://github.com/aakolber/TCP-IP-RasprberryLabview"><b>
-		  TCP/IP RaspberryPi-Labview</b></a></td>
+		  <td>
+		  <a href="https://github.com/aakolber/TCP-IP-RasprberryLabview"><b>
+		  TCP/IP RaspberryPi-Labview</b></a>
+		  </td>
 		  <td><b>Graphical, C</b></td>
+		  <td><b>Labview, Raspberry Pi OS</b></td>
+	  </tr>
+	  <tr>
+		  <td>
+		  <a href="https://github.com/aakolber/Filling-Line"><b>
+		  Filling Line</b></a>
+		  </td>
+		  <td><b>ST</b></td>
+		  <td><b>Tia Portal</b></td>
+	  </tr>
+	  <tr>
+		  <td>
+		  <a href="https://github.com/aakolber/TiaPortal"><b>Assembly Line</b></a></td>
+		  <td><b>ST, LAD</b></td>
+		  <td><b>Tia Portal</b></td>
+	  </tr>
+	  <tr>
+		  <td>
+		  <a href="https://github.com/aakolber/sorting-by-weight"><b>
+		  Sorting by weight</b></a>
+		  </td>
+		  <td><b>OOP ST</b></td>
+		  <td><b>Codesys</b></td>
+	  </tr>
+	  <tr>
+		  <td><a href="https://github.com/aakolber/Tanks---Codesys"><b>Tanks filling</b></a></td>
+		  <td><b>ST, LAD</b></td>
+		  <td><b>Codesys</b></td>
 	  </tr>
 	  <tr>
 		  <td><a href="https://github.com/aakolber/MySQL-Practise"><b>
 		  MySql Practice</b></a></td>
 		  <td><b>SQL, C</b></td>
+		  <td><b>Raspberry Pi OS</b></td>
 	  </tr>
-	  <tr>
-		  <td><a href="https://github.com/aakolber/Tanks---Codesys"><b>Tanks - Codesys Project</b></a></td>
-		  <td><b>ST, LAD, FB</b></td>
-	  </tr>
-	  <tr>
-		  <td><a href="https://github.com/aakolber/TiaPortal"><b>Tia Portal</b></a></td>
-		  <td><b>ST, LAD</b></td>
 	</tbody>
 </table>
 <br>
