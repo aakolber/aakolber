@@ -1,8 +1,7 @@
 <h1>Hi there! 👋</h1>
 
 <p> 
-My name is Adam and I'm currently studying a part-time second-degree studies  howeather I have already completed my undergraduate studies with a Bachelor's degree in Automation and Robotics at AGH University of Science and Technology in Kraków. </br>
-My goal is to become a PLC programmer. In my spare time, I create projects to further develop my skills and knowledge in this field. I invite you to take a look at some of the source code I've created and encourage you to explore it.
+My name is Adam and I'm currently studying a part-time second-degree studies howeather I have already completed my undergraduate studies with a Bachelor's degree in Automation and Robotics at AGH University of Science and Technology in Kraków. </br>
 </br>
 </p>
 </br></br>
